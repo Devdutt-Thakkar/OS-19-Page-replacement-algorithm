@@ -72,9 +72,9 @@ Below is tutorial video if you need more Information.👇🏻
 ## ✵ Developed By
 
 
-- [Aditya bhatt](https://www.linkedin.com/in/aditya-bhatt-039a651b2/)
-
 - [Kashyap Barot](https://www.linkedin.com/in/kashyap-barot-323147213/)
+
+- [Aditya bhatt](https://www.linkedin.com/in/aditya-bhatt-039a651b2/)
 
 - [Abhi Patel](https://www.linkedin.com/in/abhi-patel-596a72192/)
 
